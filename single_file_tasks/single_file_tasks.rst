@@ -191,7 +191,6 @@ let the application discover and register views.
 .. code-block:: python
 
     ...
-    from pyramid.exceptions import NotFound
     from pyramid.httpexceptions import HTTPFound
     from pyramid.view import view_config
     ...
